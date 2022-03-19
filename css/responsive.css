@@ -1,0 +1,144 @@
+@media (max-width: 575.98px){
+/* header part start */
+#header .header .header_left .tree img {
+	height: 60px;
+	width: 55px;
+}
+#header .header .header_right .header_login {
+	padding: 20px 10px;
+}
+#header .header .header_left .left_text ul .title {
+	font-size: 16px;
+	font-weight: 700;
+}
+#header .header .header_right .header_button button {
+	padding: 3px 10px;
+}
+.none{
+    display: none;
+}
+#header .header .header_right .header_button button a {
+	font-size: 14px;
+}
+#header .header .header_right .header_login a {
+	font-size: 13px;
+}
+
+#header .header .header_right .header_right_img img {
+	height: 60px;
+	width: 90px;
+}
+.navbar_right_text ul{
+    display: none;
+}
+.navbar_search{
+    margin-top: 20px;
+}
+#navbar .navbar_left .navbar_text ul li .call {
+	font-size: 25px !important;
+}
+
+/* service part */
+
+
+#service .service_left .nav .nav-item .active {
+	padding: 10px 10px;
+}
+
+#service .service_left .nav .nav-item .nav-link a {
+	font-size: 12px;
+}
+
+#announce .announce_list .list_item {
+	width: 100%;
+}
+
+/* login part */
+
+#modal .modal .modal-dialog .modal-content .modal-header .modal-title {
+	padding-top: 5px;
+	font-size: 22px;
+}
+#modal .modal .modal-dialog .modal-content .modal-header .modal-title span {
+	font-size: 15px;
+    color: white;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_logo img {
+	width: 60px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_input .input_icon i {
+	font-size: 16px;
+	
+}
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_input .input_icon {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	
+}
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_input {
+	height: 40px;
+}
+
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_text ul li a {
+	font-size: 14px;
+}
+
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_button ul li {
+	padding: 7px 0;
+}
+
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_footer ul li a {
+	font-size: 15px;
+}
+
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item .login_form .login_footer ul li {
+	padding: 15px 10px;
+}
+
+#modal .modal .modal-dialog .modal-content {
+	min-height: 90vh;
+}
+
+#modal .modal .modal-dialog .modal-content .modal-body .login_div .login_item {
+	width: 85%;
+
+}
+
+
+
+/* footer part start */
+#footer .footer_copyright .footer_icons ul li {
+	margin: 0 0px;
+}
+#sponsor .sopnsor_1 {
+	border-right: 1px solid  transparent;
+}
+#footer .footer_3 h3 {
+	font-size: 26px;
+}
+#footer .footer_3 a {
+	font-size: 26px;
+}
+#footer .footer_copyright .footer_icons ul li a i {
+	font-size: 18px;
+}
+#footer .footer_copyright .footer_icons ul li {
+	
+	height: 35px;
+	width: 35px;
+}
+
+#footer .footer_copyright .footer_icons ul li a {
+	line-height: 35px;
+}
+
+
+
+
+
+
+
+
+
+}
